@@ -167,7 +167,7 @@ button, input, textarea { font-family: inherit; font-size: 15px; }
   gap: 48px;
   padding: 96px 24px 64px;
   text-align: center;
-  background: var(--ink) url("https://tkindustrial.com.mx/wp-content/uploads/2023/08/img-tk-banner.jpg") center/cover no-repeat;
+  background: var(--ink) url("img/img-tk-banner.jpg") center/cover no-repeat;
   color: var(--white);
 }
 .hero-video {
@@ -287,7 +287,7 @@ button, input, textarea { font-family: inherit; font-size: 15px; }
   max-width: 1140px;
   padding: clamp(36px, 5vw, 56px) clamp(20px, 4vw, 48px);
   border-radius: 6px;
-  background: var(--olive-deep) url("https://tkindustrial.com.mx/wp-content/uploads/2023/08/BANNER-VERDE.jpg") center/cover no-repeat;
+  background: var(--olive-deep) url("img/BANNER-VERDE.jpg") center/cover no-repeat;
   position: relative;
   overflow: hidden;
 }
@@ -565,7 +565,7 @@ button, input, textarea { font-family: inherit; font-size: 15px; }
   gap: 18px;
   padding: clamp(72px, 12vh, 120px) 24px;
   text-align: center;
-  background: var(--ink) url("https://tkindustrial.com.mx/wp-content/uploads/2023/08/Blanco-y-negro-BANNER.jpg") center/cover no-repeat;
+  background: var(--ink) url("img/Blanco-y-negro-BANNER.jpg") center/cover no-repeat;
   color: var(--white);
 }
 .cta-banner::before {
