@@ -170,7 +170,7 @@ button, input, textarea { font-family: inherit; font-size: 15px; }
   gap: 48px;
   padding: 96px 24px 64px;
   text-align: center;
-  background: var(--ink) url("img/img-tk-banner.jpg") center/cover no-repeat;
+  background: var(--ink) url("img/tk-hero-poster.jpg") center/cover no-repeat;
   color: var(--white);
 }
 .hero-video {
